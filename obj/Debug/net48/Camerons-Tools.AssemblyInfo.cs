@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Description of Camerons-Tools")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+017d91aaed4abff2f4b3a41a7d06891777cfd64f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Camerons-Tools")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Camerons-Tools")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,6 @@
+/Users/cameron/repos/Camerons-Tools/obj/Debug/net48/Camerons-Tools.csproj.AssemblyReference.cache
+/Users/cameron/repos/Camerons-Tools/obj/Debug/net48/Camerons-Tools.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cameron/repos/Camerons-Tools/obj/Debug/net48/Camerons-Tools.AssemblyInfoInputs.cache
+/Users/cameron/repos/Camerons-Tools/obj/Debug/net48/Camerons-Tools.AssemblyInfo.cs
+/Users/cameron/repos/Camerons-Tools/obj/Debug/net48/Camerons-Tools.csproj.CoreCompileInputs.cache
+/Users/cameron/repos/Camerons-Tools/obj/Debug/net48/Camerons-Tools.sourcelink.json

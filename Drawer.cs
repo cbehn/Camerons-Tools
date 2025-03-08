@@ -1,20 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
 
-using Grasshopper.Kernel;
+using Grasshopdotnetper.Kernel;
 using Rhino.Geometry;
 
 namespace MyNamespace
 {
-    public class CabinetBoxSkeleton : GH_Component
+    public class Drawer : GH_Component
     {
         /// <summary>
-        /// Initializes a new instance of the CabinetBoxSkeleton class.
+        /// Initializes a new instance of the Drawer class.
         /// </summary>
-        public CabinetBoxSkeleton()
-          : base("CabinetBoxSkeleton", "Skeleton",
-              "A cabinet skeleton made with all solid sides",
-              "Cabinetry", "Base")
+        public Drawer()
+          : base("Drawer", "Nickname",
+              "Description",
+              "Category", "Subcategory")
         {
         }
 
@@ -58,7 +58,7 @@ namespace MyNamespace
         /// </summary>
         public override Guid ComponentGuid
         {
-            get { return new Guid("3F8F548A-617D-4359-8D2B-E5564E77E2E5"); }
+            get { return new Guid("4459DDFE-7C6B-435B-9D7D-04E537258D78"); }
         }
     }
 }
